@@ -35,7 +35,7 @@ const AZ = {
   kw: 'Analitik düşüncə, problemlərin həlli, komanda işi, uyğunlaşma bacarığı, dəqiq data təhlili və rəyə açıqlıq.',
 
   hd: 'Təhsil', hl: 'Dillər',
-  ed1: '<h3>Bakalavr, Kompüter mühəndisliyi</h3><p>Odlar Yurdu Universiteti<br>Sen 2024 – İyn 2028 (gözlənilir)</p>',
+  ed1: '<h3>Bakalavr, Kompüter mühəndisliyi</h3><p>Odlar Yurdu Universiteti<br>Sen 2024 – İyn 2028</p>',
   ed2: '<h3>Kollec, Kompüter şəbəkə avadanlıqlarının təmiri və servisi</h3><p>Bakı Dövlət Rabitə və Nəqliyyat Kolleci<br>Sen 2021 – İyn 2024</p>',
   l1: '<h3>Azərbaycan dili</h3><p>Ana dili</p>',
   l2: '<h3>Türk dili</h3><p>Orta (B1)</p>',
