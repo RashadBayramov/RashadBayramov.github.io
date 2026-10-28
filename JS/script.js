@@ -10,7 +10,7 @@
 const AZ = {
   n1: 'Layihələr', n2: 'Təcrübə', n3: 'Bacarıqlar', n4: 'Əlaqə',
   role: 'S/4HANA inteqrasiyaları üzrə SAP ABAP developer',
-  lead: 'SAP-ı onu əhatə edən sistemlərlə birləşdirirəm: banklar, telekom platformaları və giriş nəzarəti. Üç ildir ABAP ilə REST, JSON və XML interfeysləri qururam, hazırda isə Özbəkistanda beynəlxalq layihədə çalışıram.',
+  lead: 'Üç ildir SAP ABAP developer kimi çalışıram. Bu müddət ərzində bir neçə layihədə iştirak etmişəm, o cümlədən inteqrasiyaların qurulması, hesabatların hazırlanması və digər işlər.',
   cl: 'SOCAR Polymer, AzInTelecom və Veysəloğlu üçün icra olunub.',
   b1: 'Mənə yazın', b2: 'LinkedIn profilim',
 
